@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fd50cd90-d9b3-4814-8c41-f79471defd90" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Collections/src/List/EP_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/src/List/EP_2_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/src/List/EP_2_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/src/Stream_API/EX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Entrega Cartao de Credito/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Entrega Cartao de Credito/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Entrega Cartao de Credito/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Entrega Cartao de Credito/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Entrega Cartao de Credito/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Entrega Cartao de Credito/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Entrega Cartao de Credito/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Entrega Cartao de Credito/Entrega Cartao de Credito.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exemplos Fundamentais/Java Básico.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Loops e Arrays/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Loops e Arrays/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Loops e Arrays/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Loops e Arrays/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Loops e Arrays/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Loops e Arrays/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Loops e Arrays/Loops e Arrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Loops e Arrays/out/production/Loops e Arrays/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Loops e Arrays/out/production/Loops e Arrays/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Loops e Arrays/out/production/Loops e Arrays/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Loops e Arrays/out/production/Loops e Arrays/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Loops e Arrays/out/production/Loops e Arrays/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Loops e Arrays/out/production/Loops e Arrays/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Loops e Arrays/out/production/Loops e Arrays/ArrayMultidimensional.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Loops e Arrays/out/production/Loops e Arrays/Consoantes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Loops e Arrays/out/production/Loops e Arrays/Fatorial.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Loops e Arrays/out/production/Loops e Arrays/Loops e Arrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Loops e Arrays/out/production/Loops e Arrays/MaiorEMedia.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Loops e Arrays/out/production/Loops e Arrays/NomeEIdade.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Loops e Arrays/out/production/Loops e Arrays/Nota.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Loops e Arrays/out/production/Loops e Arrays/NumerosAleatorios.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Loops e Arrays/out/production/Loops e Arrays/OrdemInversa.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Loops e Arrays/out/production/Loops e Arrays/ParEImpar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Loops e Arrays/out/production/Loops e Arrays/Tabuada.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Orientacao a Objetos/Orientacao a Objetos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Trabalhando com Datas/Trabalhando com Datas.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java 2/src/main/java/fors/For.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java 2/src/main/java/fors/For.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java 2/src/main/java/ifs/IF.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java 2/src/main/java/ifs/IF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java 2/src/main/java/operadores/Igualdade.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java 2/src/main/java/operadores/Igualdade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java 2/src/main/java/operadores/Incremento.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java 2/src/main/java/operadores/Incremento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java 2/src/main/java/operadores/Logicos.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java 2/src/main/java/operadores/Logicos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java 2/src/main/java/operadores/Matematicos.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java 2/src/main/java/operadores/Matematicos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java 2/src/main/java/operadores/Relacionais.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java 2/src/main/java/operadores/Relacionais.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java 2/src/main/java/strings/StringBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java 2/src/main/java/strings/StringBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java 2/src/main/java/strings/StringFormat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java 2/src/main/java/strings/StringFormat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java 2/src/main/java/strings/Strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java 2/src/main/java/strings/Strings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java 2/src/main/java/whiles/While.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java 2/src/main/java/whiles/While.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java/src/main/java/one/digitalinnovation/abstracts/FormaGeometrica.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java/src/main/java/one/digitalinnovation/abstracts/FormaGeometrica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java/src/main/java/one/digitalinnovation/abstracts/Programa.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java/src/main/java/one/digitalinnovation/abstracts/Programa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java/src/main/java/one/digitalinnovation/abstracts/Quadrado.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java/src/main/java/one/digitalinnovation/abstracts/Quadrado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java/src/main/java/one/digitalinnovation/classes/Programa.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java/src/main/java/one/digitalinnovation/classes/Programa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java/src/main/java/one/digitalinnovation/classes/cliente/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java/src/main/java/one/digitalinnovation/classes/cliente/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java/src/main/java/one/digitalinnovation/classes/cliente/ProgramaDoCliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java/src/main/java/one/digitalinnovation/classes/cliente/ProgramaDoCliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java/src/main/java/one/digitalinnovation/classes/pessoa/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java/src/main/java/one/digitalinnovation/classes/pessoa/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java/src/main/java/one/digitalinnovation/classes/pessoa/PessoaFisica.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java/src/main/java/one/digitalinnovation/classes/pessoa/PessoaFisica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java/src/main/java/one/digitalinnovation/classes/pessoa/ProgramaDoCliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java/src/main/java/one/digitalinnovation/classes/pessoa/ProgramaDoCliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java/src/main/java/one/digitalinnovation/classes/pessoa/ProgramaDoUsuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java/src/main/java/one/digitalinnovation/classes/pessoa/ProgramaDoUsuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java/src/main/java/one/digitalinnovation/classes/pessoa/ProgramaPessoaFisica.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java/src/main/java/one/digitalinnovation/classes/pessoa/ProgramaPessoaFisica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java/src/main/java/one/digitalinnovation/classes/pessoa/Usuario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java/src/main/java/one/digitalinnovation/classes/usuario/ProgramaDoSuperUsuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java/src/main/java/one/digitalinnovation/classes/usuario/ProgramaDoSuperUsuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java/src/main/java/one/digitalinnovation/classes/usuario/SuperUsuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java/src/main/java/one/digitalinnovation/classes/usuario/SuperUsuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java/src/main/java/one/digitalinnovation/enums/Programa.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java/src/main/java/one/digitalinnovation/enums/Programa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java/src/main/java/one/digitalinnovation/enums/Status.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java/src/main/java/one/digitalinnovation/enums/Status.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java/src/main/java/one/digitalinnovation/enums/TipoVeiculo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java/src/main/java/one/digitalinnovation/enums/TipoVeiculo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java/src/main/java/one/digitalinnovation/finals/CasualGamer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java/src/main/java/one/digitalinnovation/finals/CasualGamer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java/src/main/java/one/digitalinnovation/finals/Gamer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java/src/main/java/one/digitalinnovation/finals/Gamer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java/src/main/java/one/digitalinnovation/finals/HardcoreGamer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java/src/main/java/one/digitalinnovation/finals/HardcoreGamer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java/src/main/java/one/digitalinnovation/finals/Programa.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java/src/main/java/one/digitalinnovation/finals/Programa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java/src/main/java/one/digitalinnovation/interfaces/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java/src/main/java/one/digitalinnovation/interfaces/Carro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java/src/main/java/one/digitalinnovation/interfaces/Fiesta.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java/src/main/java/one/digitalinnovation/interfaces/Fiesta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java/src/main/java/one/digitalinnovation/interfaces/Gol.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java/src/main/java/one/digitalinnovation/interfaces/Gol.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java/src/main/java/one/digitalinnovation/interfaces/Programa.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java/src/main/java/one/digitalinnovation/interfaces/Programa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java/src/main/java/one/digitalinnovation/interfaces/Trator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java/src/main/java/one/digitalinnovation/interfaces/Trator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java/src/main/java/one/digitalinnovation/interfaces/Veiculo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java/src/main/java/one/digitalinnovation/interfaces/Veiculo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java/src/main/java/one/digitalinnovation/statics/Cachorro.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java/src/main/java/one/digitalinnovation/statics/Cachorro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java/src/main/java/one/digitalinnovation/statics/Programa.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java/src/main/java/one/digitalinnovation/statics/Programa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java/src/main/java/one/digitalinnovation/tipos/naoprimitivos/NaoPrimitivos.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java/src/main/java/one/digitalinnovation/tipos/naoprimitivos/NaoPrimitivos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java/src/main/java/one/digitalinnovation/tipos/naoprimitivos/Unboxing.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java/src/main/java/one/digitalinnovation/tipos/naoprimitivos/Unboxing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java/src/main/java/one/digitalinnovation/tipos/primitivos/DefaultValues.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java/src/main/java/one/digitalinnovation/tipos/primitivos/DefaultValues.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java/src/main/java/one/digitalinnovation/tipos/primitivos/Primitivos.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java/src/main/java/one/digitalinnovation/tipos/primitivos/Primitivos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java/src/main/java/one/digitalinnovation/tipos/tipagem/Escopo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java/src/main/java/one/digitalinnovation/tipos/tipagem/Escopo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java/src/main/java/one/digitalinnovation/tipos/tipagem/TipagemEstatica.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java/src/main/java/one/digitalinnovation/tipos/tipagem/TipagemEstatica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java/src/main/java/one/digitalinnovation/tipos/tipagem/TipagemForte.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java/src/main/java/one/digitalinnovation/tipos/tipagem/TipagemForte.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java/src/main/java/one/digitalinnovation/tipos/tipagem/TipoInferido.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java/src/main/java/one/digitalinnovation/tipos/tipagem/TipoInferido.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java/src/main/java/one/digitalinnovation/tipos/wrappers/Wrappers.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Caracteristicas da Linguagem Java/src/main/java/one/digitalinnovation/tipos/wrappers/Wrappers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/.attach_pid151797" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/.attach_pid99080" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/out/production/Collections/Comparators/Exemplo$Estudante.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/out/production/Collections/Comparators/Exemplo$Estudante2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/out/production/Collections/Comparators/Exemplo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/out/production/Collections/List/Exemplo_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/out/production/Collections/List/Exemplo_List.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Collections/out/production/Collections/List/Exemplo_List.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/out/production/Collections/List/Exercicios_Propostos/EP_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/out/production/Collections/List/Exercicios_Propostos/EP_2_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/out/production/Collections/List/Exercicios_Propostos/EP_2_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/out/production/Collections/Map/ComparatorNome.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Collections/out/production/Collections/Map/ComparatorNome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/out/production/Collections/Map/ComparatorOrdemNomeContato.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Collections/out/production/Collections/Map/ComparatorOrdemNomeContato.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/out/production/Collections/Map/ComparatorPaginas.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Collections/out/production/Collections/Map/ComparatorPaginas.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/out/production/Collections/Map/Contato.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Collections/out/production/Collections/Map/Contato.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/out/production/Collections/Map/EP_1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Collections/out/production/Collections/Map/EP_1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/out/production/Collections/Map/EP_1$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Collections/out/production/Collections/Map/EP_1$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/out/production/Collections/Map/EP_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Collections/out/production/Collections/Map/EP_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/out/production/Collections/Map/EP_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Collections/out/production/Collections/Map/EP_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/out/production/Collections/Map/EP_3$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Collections/out/production/Collections/Map/EP_3$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/out/production/Collections/Map/EP_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Collections/out/production/Collections/Map/EP_3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/out/production/Collections/Map/Exemplo$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/out/production/Collections/Map/Exemplo$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/out/production/Collections/Map/Exemplo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/out/production/Collections/Map/Exemplo_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/out/production/Collections/Map/Exemplo_Ordenacao$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/out/production/Collections/Map/Exemplo_Ordenacao$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/out/production/Collections/Map/Exemplo_Ordenacao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/out/production/Collections/Map/Livro.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Collections/out/production/Collections/Map/Livro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/out/production/Collections/Queue/Exemplo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/out/production/Collections/Set/ComparatorAnoCriacaoNome.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Collections/out/production/Collections/Set/ComparatorAnoCriacaoNome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/out/production/Collections/Set/ComparatorGenero.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Collections/out/production/Collections/Set/ComparatorGenero.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/out/production/Collections/Set/ComparatorIDE.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Collections/out/production/Collections/Set/ComparatorIDE.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/out/production/Collections/Set/ComparatorNome.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Collections/out/production/Collections/Set/ComparatorNome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/out/production/Collections/Set/ComparatorNomeAnoCriacaoIDE.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Collections/out/production/Collections/Set/ComparatorNomeAnoCriacaoIDE.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/out/production/Collections/Set/ComparatorNomeGeneroTempoEpisodio.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/out/production/Collections/Set/EP_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Collections/out/production/Collections/Set/EP_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/out/production/Collections/Set/EP_2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Collections/out/production/Collections/Set/EP_2$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/out/production/Collections/Set/EP_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Collections/out/production/Collections/Set/EP_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/out/production/Collections/Set/Exemplo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/out/production/Collections/Set/Exemplo_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/out/production/Collections/Set/Exemplo_Ordenacao_1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/out/production/Collections/Set/Exemplo_Ordenacao_1$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/out/production/Collections/Set/Exemplo_Ordenacao_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/out/production/Collections/Set/Exemplo_Ordenacao_2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/out/production/Collections/Set/Exemplo_Ordenacao_2$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/out/production/Collections/Set/Exemplo_Ordenacao_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/out/production/Collections/Set/LinguagemFavorita.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Collections/out/production/Collections/Set/LinguagemFavorita.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/out/production/Collections/Set/Serie.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Collections/out/production/Collections/Set/Serie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/out/production/Collections/StreamAPI/Exemplo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/out/production/Collections/StreamAPI/Exemplo_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/src/Comparators/Exemplo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Collections/src/Comparators/EX.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/src/List/Exemplo_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Collections/src/List/EX_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/src/List/Exemplo_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Collections/src/List/EX_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/src/List/Exercicios_Propostos/EP_1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/src/List/Exercicios_Propostos/EP_2_1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/src/List/Exercicios_Propostos/EP_2_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/src/Map/Contato.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Collections/src/Map/Contato.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/src/Map/EP_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Collections/src/Map/EP_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/src/Map/EP_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Collections/src/Map/EP_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/src/Map/EP_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Collections/src/Map/EP_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/src/Map/Exemplo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Collections/src/Map/EX_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/src/Map/Exemplo_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Collections/src/Map/EX_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/src/Map/Exemplo_Ordenacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Collections/src/Map/EX_3_Ordenacao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/src/Queue/Exemplo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Collections/src/Queue/EX.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/src/Set/EP_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Collections/src/Set/EP_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/src/Set/EP_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Collections/src/Set/EP_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/src/Set/Exemplo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Collections/src/Set/EX_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/src/Set/Exemplo_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Collections/src/Set/EX_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/src/Set/Exemplo_Ordenacao_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Collections/src/Set/EX_1_Ordenacao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/src/Set/Exemplo_Ordenacao_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Collections/src/Set/EX_2_Ordenacao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/src/StreamAPI/Exemplo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/src/StreamAPI/Exemplo_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Desafio P.O.O. Java/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Desafio P.O.O. Java/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Desafio P.O.O. Java/src/br/com/dio/desafio/dominio/Bootcamp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Desafio P.O.O. Java/src/br/com/dio/desafio/dominio/Bootcamp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Desafio P.O.O. Java/src/br/com/dio/desafio/dominio/Conteudo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Desafio P.O.O. Java/src/br/com/dio/desafio/dominio/Conteudo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Desafio P.O.O. Java/src/br/com/dio/desafio/dominio/Curso.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Desafio P.O.O. Java/src/br/com/dio/desafio/dominio/Curso.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Desafio P.O.O. Java/src/br/com/dio/desafio/dominio/Dev.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Desafio P.O.O. Java/src/br/com/dio/desafio/dominio/Dev.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Desafio P.O.O. Java/src/br/com/dio/desafio/dominio/Mentoria.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Desafio P.O.O. Java/src/br/com/dio/desafio/dominio/Mentoria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Area_Direita.java" beforeDir="false" afterPath="$PROJECT_DIR$/Area_Direita.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atraso.java" beforeDir="false" afterPath="$PROJECT_DIR$/Atraso.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chuva.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chuva.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Divisores.java" beforeDir="false" afterPath="$PROJECT_DIR$/Divisores.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FusoHorario.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fuso_Horario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParImpar.java" beforeDir="false" afterPath="$PROJECT_DIR$/Par_Impar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Theon.java" beforeDir="false" afterPath="$PROJECT_DIR$/Theon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Theon2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Theon2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrigoTabuleiro.java" beforeDir="false" afterPath="$PROJECT_DIR$/Trigo_Tabuleiro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniformes.java" beforeDir="false" afterPath="$PROJECT_DIR$/Uniformes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vetor.java" beforeDir="false" afterPath="$PROJECT_DIR$/Vetor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Entrega Cartao de Credito/EntregaCartaoApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Entrega Cartao de Credito/EntregaCartaoApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Estrutura de Dados/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Estrutura de Dados/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Estrutura de Dados/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Estrutura de Dados/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex10_ArrayMultidimensional.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex11_Calculadora.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex12_PrimeiroPrograma.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex13_Gato.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex1_NomeIdade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex2_Nota.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex3_MaiorMedia.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex4_ParImpar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex5_Tabuada.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex6_Fatorial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex7_OrdemInversa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex8_Consoantes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex9_NumerosAleatorios.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VTO3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VTO4.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="23BzeiOzV1Zg6ohd6LirjSN0g2n" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd50cd90-d9b3-4814-8c41-f79471defd90" name="Changes" comment="" />
+      <created>1641222371569</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641222371569</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
