@@ -1,0 +1,189 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex",
+            "request": "launch",
+            "mainClass": "Comparators.Ex",
+            "projectName": "Agrupamentos (Collections)_c498e2f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch EP1",
+            "request": "launch",
+            "mainClass": "List.EP1",
+            "projectName": "Agrupamentos (Collections)_c498e2f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch EP2_1",
+            "request": "launch",
+            "mainClass": "List.EP2_1",
+            "projectName": "Agrupamentos (Collections)_c498e2f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch EP2_2",
+            "request": "launch",
+            "mainClass": "List.EP2_2",
+            "projectName": "Agrupamentos (Collections)_c498e2f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex1",
+            "request": "launch",
+            "mainClass": "List.Ex1",
+            "projectName": "Agrupamentos (Collections)_c498e2f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex2",
+            "request": "launch",
+            "mainClass": "List.Ex2",
+            "projectName": "Agrupamentos (Collections)_c498e2f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch EP1(1)",
+            "request": "launch",
+            "mainClass": "Map.EP1",
+            "projectName": "Agrupamentos (Collections)_c498e2f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch EP2",
+            "request": "launch",
+            "mainClass": "Map.EP2",
+            "projectName": "Agrupamentos (Collections)_c498e2f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch EP3",
+            "request": "launch",
+            "mainClass": "Map.EP3",
+            "projectName": "Agrupamentos (Collections)_c498e2f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex1(1)",
+            "request": "launch",
+            "mainClass": "Map.Ex1",
+            "projectName": "Agrupamentos (Collections)_c498e2f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex2(1)",
+            "request": "launch",
+            "mainClass": "Map.Ex2",
+            "projectName": "Agrupamentos (Collections)_c498e2f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex3_Ordenacao",
+            "request": "launch",
+            "mainClass": "Map.Ex3_Ordenacao",
+            "projectName": "Agrupamentos (Collections)_c498e2f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex(1)",
+            "request": "launch",
+            "mainClass": "Queue.Ex",
+            "projectName": "Agrupamentos (Collections)_c498e2f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch EP1(2)",
+            "request": "launch",
+            "mainClass": "Set.EP1",
+            "projectName": "Agrupamentos (Collections)_c498e2f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch EP2(1)",
+            "request": "launch",
+            "mainClass": "Set.EP2",
+            "projectName": "Agrupamentos (Collections)_c498e2f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex1(2)",
+            "request": "launch",
+            "mainClass": "Set.Ex1",
+            "projectName": "Agrupamentos (Collections)_c498e2f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex1_Ordenacao",
+            "request": "launch",
+            "mainClass": "Set.Ex1_Ordenacao",
+            "projectName": "Agrupamentos (Collections)_c498e2f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex2(2)",
+            "request": "launch",
+            "mainClass": "Set.Ex2",
+            "projectName": "Agrupamentos (Collections)_c498e2f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex2_Ordenacao",
+            "request": "launch",
+            "mainClass": "Set.Ex2_Ordenacao",
+            "projectName": "Agrupamentos (Collections)_c498e2f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex1(3)",
+            "request": "launch",
+            "mainClass": "StreamAPI.Ex1",
+            "projectName": "Agrupamentos (Collections)_c498e2f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex2(3)",
+            "request": "launch",
+            "mainClass": "StreamAPI.Ex2",
+            "projectName": "Agrupamentos (Collections)_c498e2f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex3",
+            "request": "launch",
+            "mainClass": "StreamAPI.Ex3",
+            "projectName": "Agrupamentos (Collections)_c498e2f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex4",
+            "request": "launch",
+            "mainClass": "StreamAPI.Ex4",
+            "projectName": "Agrupamentos (Collections)_c498e2f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex5",
+            "request": "launch",
+            "mainClass": "StreamAPI.Ex5",
+            "projectName": "Agrupamentos (Collections)_c498e2f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex6",
+            "request": "launch",
+            "mainClass": "StreamAPI.Ex6",
+            "projectName": "Agrupamentos (Collections)_c498e2f7"
+        }
+    ]
+}

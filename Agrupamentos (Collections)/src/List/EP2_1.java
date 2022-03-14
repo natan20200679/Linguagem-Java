@@ -10,6 +10,7 @@ Se a pessoa responder positivamente a 2 questões ela deve ser classificada como
 */
 
 package List;
+
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
@@ -17,7 +18,6 @@ import java.util.Scanner;
 
 public class EP2_1 {
     public static void main(String[] args) {
-
         List<String> respostas = new ArrayList<>();
         Scanner scanner = new Scanner(System.in);
 

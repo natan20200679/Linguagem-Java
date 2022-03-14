@@ -1,0 +1,98 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Calculadora",
+            "request": "launch",
+            "mainClass": "Calculadora",
+            "projectName": "Exemplos Fundamentais_26037477"
+        },
+        {
+            "type": "java",
+            "name": "Launch Consoantes",
+            "request": "launch",
+            "mainClass": "Consoantes",
+            "projectName": "Exemplos Fundamentais_26037477"
+        },
+        {
+            "type": "java",
+            "name": "Launch Fatorial",
+            "request": "launch",
+            "mainClass": "Fatorial",
+            "projectName": "Exemplos Fundamentais_26037477"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaiorMedia",
+            "request": "launch",
+            "mainClass": "MaiorMedia",
+            "projectName": "Exemplos Fundamentais_26037477"
+        },
+        {
+            "type": "java",
+            "name": "Launch NomeIdade",
+            "request": "launch",
+            "mainClass": "NomeIdade",
+            "projectName": "Exemplos Fundamentais_26037477"
+        },
+        {
+            "type": "java",
+            "name": "Launch Nota",
+            "request": "launch",
+            "mainClass": "Nota",
+            "projectName": "Exemplos Fundamentais_26037477"
+        },
+        {
+            "type": "java",
+            "name": "Launch NumerosAleatorios",
+            "request": "launch",
+            "mainClass": "NumerosAleatorios",
+            "projectName": "Exemplos Fundamentais_26037477"
+        },
+        {
+            "type": "java",
+            "name": "Launch OrdemInversa",
+            "request": "launch",
+            "mainClass": "OrdemInversa",
+            "projectName": "Exemplos Fundamentais_26037477"
+        },
+        {
+            "type": "java",
+            "name": "Launch ParImpar",
+            "request": "launch",
+            "mainClass": "ParImpar",
+            "projectName": "Exemplos Fundamentais_26037477"
+        },
+        {
+            "type": "java",
+            "name": "Launch Tabuada",
+            "request": "launch",
+            "mainClass": "Tabuada",
+            "projectName": "Exemplos Fundamentais_26037477"
+        },
+        {
+            "type": "java",
+            "name": "Launch VTO3",
+            "request": "launch",
+            "mainClass": "VTO3",
+            "projectName": "Exemplos Fundamentais_26037477"
+        },
+        {
+            "type": "java",
+            "name": "Launch VTO4",
+            "request": "launch",
+            "mainClass": "VTO4",
+            "projectName": "Exemplos Fundamentais_26037477"
+        }
+    ]
+}

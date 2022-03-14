@@ -9,13 +9,13 @@ Se a pessoa responder positivamente a 2 questões ela deve ser classificada como
 "Cúmplice" e 5 como "Assassina". Caso contrário, ele será classificado como "Inocente".
 */
 
-// Solução utilizando Estrutura de Decisão.
+//Solução utilizando Estrutura de Decisão.
+
 package List;
 import java.util.Scanner;
 
 public class EP2_2 {
     public static void main(String[] args) {
-
         Scanner scan = new Scanner(System.in);
         int p1;
         int p2;
