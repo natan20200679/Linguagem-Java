@@ -1,19 +1,24 @@
-package dio.exemplos;
-
 import java.util.Scanner;
 
-public class Theon2 {
+public class Theon {
     public static void main(String[] args) {
 
         Scanner leitor = new Scanner(System.in);
         int N = leitor.nextInt();
-        int T, menor = Integer.MAX_VALUE, posMenor = 0;
+        int T;
+        int menor = 0;
+        int posMenor = 0;
+        int i;
 
-        for (int i = 0; i < N; ++i) {
+        for (i = 1; i <= N; i++) {
             T = leitor.nextInt();
-            if (T < menor) {
+
+            if (i == 1) {
+                posMenor = 1;
                 menor = T;
-                posMenor = i+1;
+            }else if (T < menor) {
+                posMenor = i;
+                menor = 1;
             }
         }
 

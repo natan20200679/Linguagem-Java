@@ -1,5 +1,3 @@
-package dio.exemplos;
-
 import java.io.IOException;
 import java.util.Scanner;
 

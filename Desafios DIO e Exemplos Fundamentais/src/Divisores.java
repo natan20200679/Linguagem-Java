@@ -1,5 +1,3 @@
-package dio.exemplos;
-
 import java.util.Scanner;
 
 public class Divisores {

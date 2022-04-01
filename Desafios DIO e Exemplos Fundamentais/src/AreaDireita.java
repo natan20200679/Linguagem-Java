@@ -1,9 +1,7 @@
-package dio.exemplos;
-
 import java.io.IOException;
 import java.util.Scanner;
 
-public class Area_Direita {
+public class AreaDireita {
     public static void main(String[] args) throws IOException {
 
         Scanner leitor = new Scanner(System.in);

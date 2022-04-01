@@ -1,8 +1,6 @@
-package dio.exemplos;
-
 import java.util.Scanner;
 
-public class Fuso_Horario {
+public class FusoHorario {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
