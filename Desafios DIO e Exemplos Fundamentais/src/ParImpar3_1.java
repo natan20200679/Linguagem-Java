@@ -3,7 +3,7 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Scanner;
 
-public class ParImpar3 {
+public class ParImpar3_1 {
     public static void main(String[] args) throws Exception {
 
         Scanner leitor = new Scanner(System.in);

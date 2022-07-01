@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ParImpar3",
+            "request": "launch",
+            "mainClass": "ParImpar3",
+            "projectName": "Desafios DIO e Exemplos Fundamentais_a8dbc3e1"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"
