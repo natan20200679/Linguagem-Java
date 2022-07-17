@@ -1,4 +1,5 @@
-# Java
+Problemas e Projetos vistos em cursos de bootcamps proporcionados pela DIO e Capgemini, com modificações feitas pelo proprietário deste repositório.
+
 Códigos e Projetos envolvendo:
 - Variáveis
 - Tipos de Dados
