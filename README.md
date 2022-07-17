@@ -1,6 +1,6 @@
-# Problemas e Projetos vistos em cursos de bootcamps proporcionados pela DIO e Capgemini, com modificações feitas pelo proprietário deste repositório.
+#Problemas e Projetos vistos em cursos de bootcamps proporcionados pela DIO e Capgemini, com modificações feitas pelo proprietário deste repositório.
 
-# Códigos e Projetos envolvendo:
+#Códigos e Projetos envolvendo:
 - Variáveis
 - Tipos de Dados
 - Operadores Aritméticos 
